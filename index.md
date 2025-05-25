@@ -8,3 +8,9 @@ Dette er et *bilde*:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Her er en TODO-liste:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
